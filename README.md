@@ -98,8 +98,8 @@ Ce projet est sous licence **MIT**. Consultez le fichier [LICENSE](./LICENSE) po
 
 ## 📸 Captures d’écran & Démo
 
-![Sim Picture 1](./Simulation%Picture.png)
-![Sim Picture 2](./Simulation%Picture%2.png)
+![Sim Picture 1](SimulationPicture.png)
+![Sim Picture 2](SimulationPicture2.png)
 
 ---
 *Fait avec ❤️ par Badredenyx*
